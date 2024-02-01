@@ -10,3 +10,5 @@ Completed this project as part of my Data Science and Machine Learning Course wi
 4. Compare the results to recommend the best Regression Model.
 
 COLAB NOTEBOOK Link: https://colab.research.google.com/drive/1BdJRaz0weoXAdSdzlsG9jErq6hi_PjsL?usp=sharing
+
+PROJECT PRESENTATION Link: https://docs.google.com/presentation/d/1CkorakUtiygpFR8kWexp9rFLzehDg05p/edit?usp=sharing&ouid=114117940361788888173&rtpof=true&sd=true
